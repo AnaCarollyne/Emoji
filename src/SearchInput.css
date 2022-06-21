@@ -1,5 +1,5 @@
 .component-search-input {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgb(32, 205, 29);
 }
 
 .component-search-input > div {
@@ -8,7 +8,7 @@
 
 .component-search-input input {
   border-radius: 4px;
-  border: 1px solid #bbb;
+  border: 1px solid rgb(62, 13, 140);
   box-sizing: border-box;
   font-size: 18px;
   padding: 10px 8px;
